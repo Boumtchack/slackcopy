@@ -1,0 +1,24 @@
+.messages{
+  margin: 10px 20px;
+}
+
+.avatar{
+  width: 45px;
+  height: 45px;
+  background-size: cover;
+  background-position: top center;
+  border-radius: 50%;
+}
+
+.message{
+  display: flex;
+  margin-right: 100px;
+}
+
+.message p {
+  padding-left: 20px;
+}
+
+.message-content{
+  flex-grow: 1;
+}
